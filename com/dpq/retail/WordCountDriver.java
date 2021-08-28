@@ -1,4 +1,4 @@
-package com.citi.retail;
+package com.dpq.retail;
 
 mport java.io.IOException;
 import org.apache.hadoop.conf.Configuration;
