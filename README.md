@@ -11,5 +11,5 @@ hdfs dfs -ls /hdp/retail/inputData/
 
 /hdp/retail/process/news.txt
 
-hadoop jar MaxClosingPriceByMapreduce-0.0.1-SNAPSHOT.jar com.dpq.retail.WordCountDriver /hdp/retail/process/news.txt /temp/newsOutput1
+hadoop jar WordCountMRJob-0.0.1-SNAPSHOT.jar com.dpq.retail.WordCountDriver /hdp/retail/process/news.txt /temp/newsOutput1
  
